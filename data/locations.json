@@ -1,0 +1,45 @@
+{
+  "aliases": {
+    "keys": "Rav4 keys",
+    "my keys": "Rav4 keys"
+  },
+  "canonical_homes": {
+    "Rav4 keys": "Key Hook"
+  },
+  "current_locations": {
+    "Rav4 keys": {
+      "location": "Key Hook",
+      "updated_at": "2026-05-17T11:51:29"
+    },
+    "Wallet": {
+      "location": "Portland / Hotel Room",
+      "updated_at": "2026-05-17T11:51:29"
+    }
+  },
+  "history": {
+    "Rav4 keys": [
+      {
+        "location": "Coat Pocket",
+        "recorded_at": "2026-05-17T11:51:29",
+        "travel_mode_active": false
+      },
+      {
+        "location": "Key Hook",
+        "recorded_at": "2026-05-17T11:51:29",
+        "travel_mode_active": false
+      }
+    ],
+    "Wallet": [
+      {
+        "location": "Portland / Hotel Room",
+        "recorded_at": "2026-05-17T11:51:29",
+        "travel_mode_active": true
+      }
+    ]
+  },
+  "travel_mode": {
+    "active": false,
+    "location": null,
+    "activated_at": null
+  }
+}
